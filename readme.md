@@ -17,9 +17,9 @@ We create a micro-service which contain CRUD functionality related to Users and 
     2. Rayyan Mulla (2021010)
     3. Asim Siddique (2021014)
 <br>
-<code> GET http://external-ipaddresss/api/user <code> <br>
-<code> POST http://external-ipaddresss/api/user <code> <br>
-<code> UPDATE http://external-ipaddresss/api/user <code> <br>
-<code> DELETE http://external-ipaddresss/api/user <code> <br>
+<code> GET http://external-ipaddresss/api/user </code> <br> <br>
+<code> POST http://external-ipaddresss/api/user </code> <br> <br>
+<code> UPDATE http://external-ipaddresss/api/user </code> <br> <br>
+<code> DELETE http://external-ipaddresss/api/user </code> <br> <br>
 
 
